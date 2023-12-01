@@ -1,1 +1,17 @@
-# advent-of-code-2023
+# Advent-of-Code
+
+This repo contains solutions to the [advent of code](https://adventofcode.com/) challenge
+
+## Usage
+
+1. clone repo
+2. navigate to day (eg `01/` is dir for first day)
+3. `python <name>.py`
+
+## Author
+
+[Carter Watson](https://github.com/cartwatson)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
