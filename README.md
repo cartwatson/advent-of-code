@@ -6,12 +6,9 @@ This repo contains solutions to the [advent of code](https://adventofcode.com/) 
 
 1. clone repo
 2. navigate to day (eg `01/` is dir for first day)
-3. `python <name>.py`
+3. run `python <name>.py`
 
-## Author
+## Misc Info
 
-[Carter Watson](https://github.com/cartwatson)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
+- **Author**: [Carter Watson](https://github.com/cartwatson)
+- **License**: MIT License - see [LICENSE](/LICENSE) for details
